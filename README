@@ -7,5 +7,5 @@ BLOCKCHAIN EXAMPLE
 
 Just learning blockchain...
 
-Currently uses a simple UI to display the created blockchain
+Currently uses a simple Flask UI to display the created blockchain
 
